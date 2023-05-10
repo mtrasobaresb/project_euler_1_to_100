@@ -11,3 +11,7 @@ You might need all or some of the following libraries to correctly run the noteb
 - Multiprocess
 - tqdm
 - Plotly
+
+# Project Euler Problems:
+
+- [Problem 1. Multiples of 3 and 5](https://projecteuler.net/problem=1)
